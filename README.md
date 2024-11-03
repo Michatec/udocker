@@ -31,10 +31,10 @@ This affects the configuration option `conf['tarball']` and environment variable
 
 The full documentation is available at:
 
-* [udocker documentation](https://indigo-dc.github.io/udocker/)
-* [Installation manual](https://indigo-dc.github.io/udocker/installation_manual.html)
-* [User manual](https://indigo-dc.github.io/udocker/user_manual.html)
-* [Reference card](https://indigo-dc.github.io/udocker/reference_card.html)
+* [udocker documentation](https://michatec.github.io/udocker)
+* [Installation manual](https://michatec.github.io/udocker/installation_manual.html)
+* [User manual](https://michatec.github.io/udocker/user_manual.html)
+* [Reference card](https://michatec.github.io/udocker/reference_card.html)
 
 ## How does it work
 
@@ -87,9 +87,6 @@ extracted directory trees are placed by default under `$HOME/.udocker`.
 ## Python 2 and Python 3
 
 Since v1.3.0, udocker supports Python 2.7 and Python >= 3.6.
-The original udocker v1.1.x for Python 2 is no longer maintained
-but is still available
-[here](https://github.com/indigo-dc/udocker/tree/v1.1.8).
 
 ## Syntax
 
