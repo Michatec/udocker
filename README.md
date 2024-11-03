@@ -32,9 +32,9 @@ This affects the configuration option `conf['tarball']` and environment variable
 The full documentation is available at:
 
 * [udocker documentation](https://michatec.github.io/udocker)
-* [Installation manual](https://michatec.github.io/udocker/docs/installation_manual.md)
-* [User manual](https://michatec.github.io/udocker/docs/user_manual.md)
-* [Reference card](https://michatec.github.io/udocker/docs/reference_card.md)
+* [Installation manual](https://michatec.github.io/udocker/docs/installation_manual.html)
+* [User manual](https://michatec.github.io/udocker/docs/user_manual.html)
+* [Reference card](https://michatec.github.io/udocker/docs/reference_card.html)
 
 ## How does it work
 
